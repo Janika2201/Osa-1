@@ -1930,24 +1930,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\opilane\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.Android\\osa2_valjataga.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga.Android\\osa2_valjataga.Android.csproj",
       "projectName": "osa2_valjataga.Android",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.Android\\osa2_valjataga.Android.csproj",
-      "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.Android\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga.Android\\osa2_valjataga.Android.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1961,8 +1961,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.csproj": {
-              "projectPath": "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.csproj"
+            "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.csproj"
             }
           }
         }

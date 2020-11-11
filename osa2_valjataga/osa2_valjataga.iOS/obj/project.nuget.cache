@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wUCO68O2yPLnpP0eoGPWy85TXtMljTquzeR4NUAh6Qgnk+omtVyX5QxDsZpPfnLJCZYfpTUrmTnQHHEY7nFX4A==",
+  "dgSpecHash": "ZXWvqX7XcjEqDc2+Phpce8nC5ib+7H/I/spIxJZjedkGcdK0N7qvEyFz0CDFMRy2Uq9KH3mmxRWGuEWlWIskLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.iOS\\osa2_valjataga.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga.iOS\\osa2_valjataga.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
   "logs": []
 }

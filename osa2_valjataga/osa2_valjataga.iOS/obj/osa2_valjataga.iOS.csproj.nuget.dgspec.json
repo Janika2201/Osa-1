@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.iOS\\osa2_valjataga.iOS.csproj": {}
+    "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga.iOS\\osa2_valjataga.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.iOS\\osa2_valjataga.iOS.csproj": {
+    "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga.iOS\\osa2_valjataga.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.iOS\\osa2_valjataga.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga.iOS\\osa2_valjataga.iOS.csproj",
         "projectName": "osa2_valjataga.iOS",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.iOS\\osa2_valjataga.iOS.csproj",
-        "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.iOS\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga.iOS\\osa2_valjataga.iOS.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.csproj": {
-                "projectPath": "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.csproj"
+              "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.csproj"
               }
             }
           }
@@ -65,21 +65,20 @@
         }
       }
     },
-    "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.csproj": {
+    "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.csproj",
         "projectName": "osa2_valjataga",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.csproj",
-        "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga\\osa2_valjataga.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\Osa-1\\osa2_valjataga\\osa2_valjataga\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -129,7 +128,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

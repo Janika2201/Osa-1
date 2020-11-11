@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\osa2_valjataga\osa2_valjataga\osa2_valjataga\obj\Debug\netstandard2.0\osa2_valjataga.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\osa2_valjataga\osa2_valjataga\osa2_valjataga\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\opilane\source\repos\osa2_valjataga\osa2_valjataga\osa2_valjataga\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\opilane\source\repos\osa2_valjataga\osa2_valjataga\osa2_valjataga\obj\Debug\netstandard2.0\varian2.xaml.g.cs
+C:\Users\opilane\source\repos\osa2_valjataga\osa2_valjataga\osa2_valjataga\obj\Debug\netstandard2.0\osa2_valjataga.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\osa2_valjataga\osa2_valjataga\osa2_valjataga\obj\Debug\netstandard2.0\osa2_valjataga.AssemblyInfo.cs
+C:\Users\opilane\source\repos\osa2_valjataga\osa2_valjataga\osa2_valjataga\obj\Debug\netstandard2.0\osa2_valjataga.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\osa2_valjataga\osa2_valjataga\osa2_valjataga\bin\Debug\netstandard2.0\osa2_valjataga.deps.json
+C:\Users\opilane\source\repos\osa2_valjataga\osa2_valjataga\osa2_valjataga\bin\Debug\netstandard2.0\osa2_valjataga.dll
+C:\Users\opilane\source\repos\osa2_valjataga\osa2_valjataga\osa2_valjataga\bin\Debug\netstandard2.0\ref\osa2_valjataga.dll
+C:\Users\opilane\source\repos\osa2_valjataga\osa2_valjataga\osa2_valjataga\bin\Debug\netstandard2.0\osa2_valjataga.pdb
+C:\Users\opilane\source\repos\osa2_valjataga\osa2_valjataga\osa2_valjataga\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\opilane\source\repos\osa2_valjataga\osa2_valjataga\osa2_valjataga\obj\Debug\netstandard2.0\osa2_valjataga.dll
+C:\Users\opilane\source\repos\osa2_valjataga\osa2_valjataga\osa2_valjataga\obj\Debug\netstandard2.0\ref\osa2_valjataga.dll
+C:\Users\opilane\source\repos\osa2_valjataga\osa2_valjataga\osa2_valjataga\obj\Debug\netstandard2.0\osa2_valjataga.pdb

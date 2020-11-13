@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -29,7 +30,7 @@ namespace osa2_valjataga
             InitializeComponent();
         }
 
-        private void dATAp_PropertyChanged(object sender, System.ComponentModel.PropertyChangedEventArgs e)
+        private void dATAp_PropertyChanged(object sender, PropertyChangedEventArgs e)
         {
             changetime_date = dATAp.Date;
             if (changetime_date.Month.ToString() == "1")

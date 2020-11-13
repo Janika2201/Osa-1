@@ -5,8 +5,8 @@
     <AbsoluteLayout BackgroundColor="LightPink">
         <Label x:Name="label1" Text="Гороскоп" AbsoluteLayout.LayoutBounds="150,10,100,20"></Label>
         <DatePicker x:Name="dATAp" PropertyChanged="dATAp_PropertyChanged" AbsoluteLayout.LayoutBounds="0,50,110,150" ></DatePicker>
-        <Image x:Name="img" Source="znak.jpg" AbsoluteLayout.LayoutBounds="120,50,220,140"/>
-        <Label x:Name="label2" FontSize="18"  AbsoluteLayout.LayoutBounds="0,200,360,300"></Label>
-        <Entry x:Name="entRI" Placeholder="Напиши ваш знак зодиака" Text="" AbsoluteLayout.LayoutBounds="0,500,300,50" PropertyChanged="entRI_PropertyChanged"></Entry>
+        <Image x:Name="img" Source="lev.png" AbsoluteLayout.LayoutBounds="120,50,220,140"/>
+        <Label x:Name="label2" FontSize="15"  AbsoluteLayout.LayoutBounds="0,200,360,300"></Label>
+        <Entry x:Name="entRI" Placeholder="Напишите ваш знак зодиака" Text="" AbsoluteLayout.LayoutBounds="0,500,300,50" PropertyChanged="entRI_PropertyChanged"></Entry>
     </AbsoluteLayout>
 </ContentPage>

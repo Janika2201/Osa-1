@@ -2,16 +2,11 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="osa2_valjataga.varian2">
-    <ContentPage.Content>
-        <StackLayout>
-            <DatePicker x:Name="changehoros" DateSelected="changehoros_DateSelected" MinimumDate="01/01/2020"
-                        MaximumDate="12/31/2020"
-                        Date="7/7/2020"/>
-            <Image x:Name="horos" Source="znak.jpg"/>
-            <Entry x:Name="info" Text="Kes sa oled?"/>
-            <Label Text=""
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content>
+    <AbsoluteLayout BackgroundColor="LightPink">
+        <Label x:Name="label1" Text="Гороскоп" AbsoluteLayout.LayoutBounds="150,10,100,20"></Label>
+        <DatePicker x:Name="dATAp" PropertyChanged="dATAp_PropertyChanged" AbsoluteLayout.LayoutBounds="0,50,110,150" ></DatePicker>
+        <Image x:Name="img" Source="znak.jpg" AbsoluteLayout.LayoutBounds="120,50,220,140"/>
+        <Label x:Name="label2" FontSize="18"  AbsoluteLayout.LayoutBounds="0,200,360,300"></Label>
+        <Entry x:Name="entRI" Placeholder="Напиши ваш знак зодиака" Text="" AbsoluteLayout.LayoutBounds="0,500,300,50" PropertyChanged="entRI_PropertyChanged"></Entry>
+    </AbsoluteLayout>
 </ContentPage>

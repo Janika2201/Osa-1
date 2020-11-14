@@ -28,6 +28,17 @@ namespace osa2_valjataga
         public varian2()
         {
             InitializeComponent();
+            Grid grd = new Grid();
+
+            ColumnDefinition colDef1 = new ColumnDefinition();
+            ColumnDefinition colDef2 = new ColumnDefinition();
+            grd.ColumnDefinitions.Add(colDef1);
+            grd.ColumnDefinitions.Add(colDef2);
+
+            RowDefinition rowDef1 = new RowDefinition();
+            RowDefinition rowDef2 = new RowDefinition();
+            grd.RowDefinitions.Add(rowDef1);
+            grd.RowDefinitions.Add(rowDef2);
         }
 
         private void dATAp_PropertyChanged(object sender, PropertyChangedEventArgs e)

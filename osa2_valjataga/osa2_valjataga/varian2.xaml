@@ -3,10 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="osa2_valjataga.varian2">
     <AbsoluteLayout BackgroundColor="LightPink">
-        <Label x:Name="label1" Text="Гороскоп" AbsoluteLayout.LayoutBounds="150,10,100,20"></Label>
-        <DatePicker x:Name="dATAp" PropertyChanged="dATAp_PropertyChanged" AbsoluteLayout.LayoutBounds="0,50,110,150" ></DatePicker>
-        <Image x:Name="img" Source="lev.png" AbsoluteLayout.LayoutBounds="120,50,220,140"/>
-        <Label x:Name="label2" FontSize="15"  AbsoluteLayout.LayoutBounds="0,200,360,300"></Label>
-        <Entry x:Name="entRI" Placeholder="Напишите ваш знак зодиака" Text="" AbsoluteLayout.LayoutBounds="0,500,300,50" PropertyChanged="entRI_PropertyChanged"></Entry>
+        <Label x:Name="label1" Text="Гороскоп" AbsoluteLayout.LayoutBounds="100,10,200,20" BackgroundColor="LightYellow"></Label>
+        <DatePicker x:Name="datatime" PropertyChanged="datatime_PropertyChanged" AbsoluteLayout.LayoutBounds="0,40,160,150" BackgroundColor="SeaGreen" ></DatePicker>
+        <Image x:Name="img" Source="skorpion.png" AbsoluteLayout.LayoutBounds="120,50,220,140"/>
+        <Label x:Name="label2" FontSize="15"  AbsoluteLayout.LayoutBounds="0,200,360,300" BackgroundColor="Yellow"></Label>
+        <Entry x:Name="entri" Placeholder="Кто вы по знаку зодиака?" Text="" AbsoluteLayout.LayoutBounds="0,500,300,50" PropertyChanged="entri_PropertyChanged"></Entry>
     </AbsoluteLayout>
 </ContentPage>
